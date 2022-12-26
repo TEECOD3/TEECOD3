@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm David temitope</h1>
+<h1 align="center">Hi 👋, I'm DAVID TEMITOPE</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Reactjs, threejs ,GSAP**
 
-- 👨‍💻 All of my projects are available at [WORKING ON IT](WORKING ON IT)
+- 👨‍💻 All of my projects are available at [WORKING ON IT]
 
 - 💬 Ask me about **React**
 
