@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teecod3&label=Profile%20views&color=0e75b6&style=flat" alt="teecod3" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, threejs ,GSAP**
+- 🌱 I’m currently learning **Reactjs, nextjs  and typescript**
 
 - 👨‍💻 All of my projects are available at [WORKING ON IT](WORKING ON IT)
 
