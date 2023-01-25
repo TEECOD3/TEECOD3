@@ -17,7 +17,7 @@ Front-end developer with a strong background in HTML, CSS, JavaScript, ReactJS, 
 ## 📱 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-temitope-0532481b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TOPSHI_)
  
- mail: temitopedavid236@gmail.com
+ mail: temitopedavid236@yahoo.com
 
 ## 💻 Tech Stack:
 
