@@ -12,7 +12,7 @@
 
 ## 💫 About Me:
 
-Front-end developer with a strong background in HTML, CSS, JavaScript, ReactJS, TypeScript, SCSS, Tailwind, Chakra UI and Git. Skilled in creating responsive, visually appealing web applications that deliver exceptional user experiences. Proficient in modern front-end development practices and tools, including ReactJS and TypeScript. Passionate about coding and utilizing my skills to build innovative, high-performance web applications. Continuously learning and staying up-to-date with the latest technologies and industry trends to improve my skills and deliver the best results for clients.
+Front-end developer with a strong background in HTML, CSS, JavaScript, React, SCSS, Tailwind, Chakra UI and Git. Skilled in creating responsive, visually appealing web applications that deliver exceptional user experiences. Proficient in modern front-end development practices and tools, including ReactJS and javaScript. Passionate about coding and utilizing my skills to build innovative, high-performance web applications. Continuously learning and staying up-to-date with the latest technologies and industry trends to improve my skills and deliver the best results for clients.
 
 ## 📱 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-temitope-0532481b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TOPSHI_)
