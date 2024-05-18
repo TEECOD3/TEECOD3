@@ -12,7 +12,7 @@
 
 ## 💫 About Me:
 
-Front-end developer with a  background in HTML, CSS, JavaScript, using frameworks such as  React,Nextjs, SCSS, Tailwind, Chakra UI ,radix ui Git and more. Skilled in creating responsive, visually appealing web applications that deliver exceptional user experiences. 
+Front-end developer with a  background in HTML, CSS, JavaScript, using frameworks such as  React/Nextjs, SCSS, Tailwind,Chakra UI,radix ui Git and more. Skilled in creating responsive, visually appealing web applications that deliver exceptional user experiences. 
 
 ## 📱 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-temitope-0532481b7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TOPSHI_)
