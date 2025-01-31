@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&color=red&vCenter=true&lines=Experienced+ReactJs+Developer;Skillfull+Frontend+Engineer;2%2B+years+of+coding+experience;"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&color=red&vCenter=true&lines=Experienced+ReactJs+Developer;Skillfull+Frontend+Engineer;3%2B+years+of+coding+experience;"></a>
 </p>
 
 ## 💫 About Me:
