@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👨‍💻 I’m currently working on<br><br>Improving my frontend engineering skills by building fast, accessible, and scalable web apps with Next.js, TypeScript, and modern UI systems.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source React/Next.js projects, high-performance UI libraries, and anything involving clean architecture or developer tooling.<br><br>🛠️ I’m looking for help with<br><br>Advanced testing workflows (E2E + unit), and improving my open-source contribution process.<br><br>🌱 I’m currently learning<br><br>System design for frontend engineers, advanced React patterns, and performance optimization at scale.<br><br>💬 Ask me about<br><br>Next.js, React Query, Tailwind, ShadCN UI, creating reusable component systems, and building SEO-friendly websites.<br><br>⚡ Fun fact<br><br>I love turning rough ideas into polished user interfaces — it’s my version of digital sculpting.
+<br><br>👨‍💻 I’m currently working on<br><br>Improving my frontend engineering skills by building fast, accessible, and scalable web apps with Next.js, TypeScript, and modern UI systems
 
 
 ## 🌐 Socials:
