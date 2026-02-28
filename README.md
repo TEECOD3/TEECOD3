@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👨‍💻 I’m currently working on<br><br>Improving my frontend engineering skills by building fast, accessible, and scalable web apps with vuejs, nuxt, angular, React and Next.js, TypeScript, and modern UI systems
+<br><br>👨‍💻 I’m currently working on<br><br>Improving my frontend engineering skills by building fast, accessible, and scalable web apps with React, React Native and Next.js, TypeScript, and modern UI systems
 
 
 ## 🌐 Socials:
